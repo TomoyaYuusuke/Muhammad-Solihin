@@ -23,7 +23,7 @@ if(x=="1"){xxx="animerz-1.html"}
 if(x=="2"){xxx="animerz-2.html"}
 if(x=="3"){xxx="animerz-3.html"}
 if(x=="4"){xxx="animerz-4.html"}
-if(x=="5"){xxx="animerz-5.html"}a_to_ve[i].href="http://jurnalnime.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="animerz-5.html"}a_to_ve[i].href="http://www.jurnalnime.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
